@@ -1,0 +1,7 @@
+{
+  "name": "FaceFlow Attendance",
+  "description": "An advanced employee attendance system using Gemini-powered facial recognition. Register employees with a photo and track daily check-ins/outs with automated logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
